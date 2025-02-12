@@ -7,7 +7,7 @@ on:
 env:
 
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: 1
+  RESOURCE_GROUP_NAME: acaexample01
 
   # specify your preferred region
   REGION: swedencentral
